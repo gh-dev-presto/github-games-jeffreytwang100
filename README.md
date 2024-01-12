@@ -1,5 +1,7 @@
 ## Welcome to GitHub Games
 
+Made changes
+
 A project based learning activity for people who are getting started with Git and GitHub.
 
 You can play the game at: <https://github.com/gh-dev-presto/github-games-jeffreytwang100/>
